@@ -46,7 +46,7 @@ Make sure you have Python installed. Install the required Python libraries using
 pip install -r requirements.txt
 
 Run the game: 
-Execute the following command to start the game:
+Execute the following command is main directory to start the game:
 python main.py
 
 
