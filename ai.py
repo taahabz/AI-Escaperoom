@@ -13,7 +13,7 @@ class AI:
         self.danger_radius = 4  # Increased danger radius
         self.start_time = time.time()
         self.last_path_update = 0
-        self.path_update_interval = 0.1  # Update path more frequently
+        self.path_update_interval = 2 # Update path more frequently
 
     def get_current_time(self):
         return time.time() - self.start_time
