@@ -356,7 +356,7 @@ player_rect = pygame.Rect(
 )
 camera_x = 0
 
-# Initialize AI
+# Initialize AI agent
 ai_agent = initialize_ai()
 ai_control = False
 
