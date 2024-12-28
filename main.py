@@ -332,7 +332,7 @@ def check_time():
     elapsed_time = current_time - start_time
     remaining_time = max(0, GAME_DURATION - elapsed_time)
     
-    # Draw timer
+    # Draw timer fp
     timer_text = font.render(f"Time: {int(remaining_time)}s", True, (255, 255, 255))
     screen.blit(timer_text, (10, 10))
     
