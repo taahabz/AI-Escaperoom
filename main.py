@@ -339,7 +339,7 @@ def check_time():
     return remaining_time <= 0
 
 
-# Initialize the game
+# Initialize the game window
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("Escape Room")
 clock = pygame.time.Clock()
