@@ -1,3 +1,2 @@
 pygame==2.6.1
-znumpy==2.2.0asdsad
-xzzc
+numpy==2.2.0
