@@ -292,7 +292,7 @@ player_rect = pygame.Rect(
     current_level_data["start_pos"][0] * SCALED_TILE_SIZE,
     current_level_data["start_pos"][1] * SCALED_TILE_SIZE,
     SCALED_TILE_SIZE,
-    SCALED_TILE_SIZE,
+    SCALED_TILE_SIZE
 )
 camera_x = 0
 
@@ -351,6 +351,8 @@ has_key = False if collected_keys else True
 player_rect = pygame.Rect(
     current_level_data["start_pos"][0] * SCALED_TILE_SIZE,
     current_level_data["start_pos"][1] * SCALED_TILE_SIZE,
+    SCALED_TILE_SIZE,
+    SCALED_TILE_SIZE
 )
 camera_x = 0
 
