@@ -73,7 +73,6 @@ EscapeRoomGame/
 
 
 
-
 ## How to Play
 
 ### Player Controls
