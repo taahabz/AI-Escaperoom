@@ -69,6 +69,7 @@ EscapeRoomGame/
    ```bash
    python main.py
    ```
+   
 
 ## How to Play
 
